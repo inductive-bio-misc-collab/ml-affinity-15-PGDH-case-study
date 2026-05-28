@@ -1,4 +1,4 @@
-# Reproducibility package
+# Code for "Evaluating Machine Learning Affinity Prediction Methods on Novel Lead Optimization Data: A 15-PGDH Case Study"
 
 This directory contains the code and data needed to reproduce the results and
 figures in the paper. All analysis scripts (figures, statistics) run with the
